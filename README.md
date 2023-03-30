@@ -1,4 +1,4 @@
-<h1 align="center">AI Student Ahmed Fadlalla</h1>
+<h1 align="center">AI Student 👨🏻‍🎓: Ahmed Fadlalla</h1>
 <h3 align="center">Rated competitive programmer on Codeforces and Self motivated learner. Adopted at working under stress with high efficiency and more than 4 years of experience using C++. Third year AI student at the British University in Dubai with a certificate from their Game Development Club. I also have other interests in psychology and the human behavior books.</h3>
 
 - 📫 How to reach me **ahmedmaaf@gmail.com**
@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-fadlalla-05606b18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-fadlalla-05606b18b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmed fadlalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmed fadlalla" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahmedfadlalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedfadlalla" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ahmedmaaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahmedmaaf" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedmaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedmaaf" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fadlalla2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fadlalla2" height="30" width="40" /></a>
