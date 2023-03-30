@@ -1,5 +1,8 @@
 # 👨🏻‍🎓 Ahmed Fadlalla
 
+**'AI Student'**
+
+Rated competitive programmer on Codeforces and Self motivated learner. Adopted at working under stress with high efficiency and more than 4 years of experience using C++. Third year AI student at the British University in Dubai with a certificate from their Game Development Club. I also have other interests in psychology and the human behavior books.
 <!--
 **Ahmed1929/Ahmed1929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
