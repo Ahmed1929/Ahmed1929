@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/ahmedmaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedmaaf" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fadlalla2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fadlalla2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fadlalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fadlalla" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/fadlalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="fadlalla" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ahmedmaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ahmedmaaf" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/fadlalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="fadlalla" height="30" width="40" /></a>
 </p>
 
