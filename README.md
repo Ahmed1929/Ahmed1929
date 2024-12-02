@@ -1,5 +1,5 @@
-<h1 align="center">Data Science student 👨🏻‍🎓: Ahmed Fadlalla</h1>
-<h3 align="center">A recent graduate from The British University in Dubai, with one year experience as a lab instructor. Additionally, actively participates in competitive programming with over 40 contests on platforms like Codeforces, AtCoder, and CodeChef. Primarily utilizes C++ for implementing complex algorithms and data structures during competitions for more than 5 years.</h3>
+<h1 align="center">Mathematician: Ahmed Fadlalla</h1>
+<h3 align="center">Active Kaggle participant and passionate about competitive programming, implementing various algorithms, and participating in programming contests using C++. Linux is my main OS; I use it for stock pricing, implementing simulations for various tasks, training reinforcement learning agents in environments, and building neural networks.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/FX3LSRe-WP3-NszptovDZnG_yj6GU12Q-HwdgQ0my0Q/rs:fit:480:268:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvWlZpazdw/QnR1OWROUy9naXBo/eS5naWY.gif">
 
 - 📫 How to reach me **ahmedmaaf@gmail.com**
